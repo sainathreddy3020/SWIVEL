@@ -1,0 +1,6 @@
+{
+  "name": "Swivel Reach",
+  "description": "A complete system to track employee progress, tasks, daily work updates, and productivity metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
